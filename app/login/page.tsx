@@ -45,7 +45,7 @@ export default function LoginPage() {
               <path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"/>
             </svg>
           </div>
-          <h1 style={{ color: 'white', fontSize: 22, fontWeight: 700, margin: 0 }}>ARKS タスク管理</h1>
+          <h1 style={{ color: 'white', fontSize: 22, fontWeight: 700, margin: 0 }}>成増運輸株式会社 タスク管理</h1>
           <p style={{ color: 'rgba(255,255,255,0.6)', fontSize: 13, marginTop: 4 }}>チーム共有タスク管理システム</p>
         </div>
 
@@ -75,8 +75,8 @@ export default function LoginPage() {
           </form>
           <div style={{ marginTop: 24, padding: '14px', background: '#f8fafc', borderRadius: 8, fontSize: 12, color: 'var(--muted)' }}>
             <p style={{ fontWeight: 600, marginBottom: 6 }}>デモアカウント</p>
-            <p>管理者: admin@arks.co.jp / admin123</p>
-            <p>一般: tanaka@arks.co.jp / pass123</p>
+            <p>管理者: admin@narimasu-log.co.jp / admin123</p>
+            <p>一般: tanaka@narimasu-log.co.jp / pass123</p>
           </div>
         </div>
       </div>

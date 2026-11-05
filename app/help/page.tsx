@@ -83,7 +83,7 @@ export default function HelpPage() {
       <div style={{ padding: '28px 32px', maxWidth: 860 }}>
         <h1 style={{ fontSize: 22, fontWeight: 700, margin: '0 0 6px' }}>ヘルプ</h1>
         <p style={{ color: 'var(--muted)', fontSize: 14, margin: '0 0 32px' }}>
-          ARKS タスク管理アプリの使い方ガイド
+          成増運輸株式会社 タスク管理アプリの使い方ガイド
         </p>
 
         {/* 機能説明 */}

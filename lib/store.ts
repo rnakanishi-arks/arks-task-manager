@@ -70,10 +70,10 @@ export function seedIfEmpty() {
 
   const now = new Date().toISOString()
   const initUsers: User[] = [
-    { id: 'u1', name: '管理者', email: 'admin@arks.co.jp', passwordHash: btoa('admin123'), role: 'admin', createdAt: now },
-    { id: 'u2', name: '田中 花子', email: 'tanaka@arks.co.jp', passwordHash: btoa('pass123'), role: 'member', createdAt: now },
-    { id: 'u3', name: '鈴木 一郎', email: 'suzuki@arks.co.jp', passwordHash: btoa('pass123'), role: 'member', createdAt: now },
-    { id: 'u4', name: '佐藤 美咲', email: 'sato@arks.co.jp', passwordHash: btoa('pass123'), role: 'member', createdAt: now },
+    { id: 'u1', name: '管理者', email: 'admin@narimasu-log.co.jp', passwordHash: btoa('admin123'), role: 'admin', createdAt: now },
+    { id: 'u2', name: '田中 花子', email: 'tanaka@narimasu-log.co.jp', passwordHash: btoa('pass123'), role: 'member', createdAt: now },
+    { id: 'u3', name: '鈴木 一郎', email: 'suzuki@narimasu-log.co.jp', passwordHash: btoa('pass123'), role: 'member', createdAt: now },
+    { id: 'u4', name: '佐藤 美咲', email: 'sato@narimasu-log.co.jp', passwordHash: btoa('pass123'), role: 'member', createdAt: now },
   ]
   const initGroups: Group[] = [
     { id: 'g1', name: '支援チーム', memberIds: ['u2', 'u3', 'u4'], createdAt: now },

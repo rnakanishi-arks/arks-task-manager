@@ -60,7 +60,7 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
               </svg>
             </div>
             <div>
-              <div style={{ color: 'white', fontWeight: 700, fontSize: 13, lineHeight: 1.2 }}>ARKS</div>
+              <div style={{ color: 'white', fontWeight: 700, fontSize: 13, lineHeight: 1.2 }}>成増運輸株式会社</div>
               <div style={{ color: 'rgba(255,255,255,0.45)', fontSize: 10 }}>タスク管理</div>
             </div>
           </div>

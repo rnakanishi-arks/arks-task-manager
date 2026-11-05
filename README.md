@@ -1,4 +1,4 @@
-# ARKS タスク管理アプリ
+# 成増運輸株式会社 タスク管理アプリ
 
 チーム共有タスク管理Webアプリ（Next.js + Vercel）
 
@@ -28,10 +28,10 @@ npm run dev
 
 | ロール | メール | パスワード |
 |--------|--------|-----------|
-| 管理者 | admin@arks.co.jp | admin123 |
-| メンバー | tanaka@arks.co.jp | pass123 |
-| メンバー | suzuki@arks.co.jp | pass123 |
-| メンバー | sato@arks.co.jp | pass123 |
+| 管理者 | admin@narimasu-log.co.jp | admin123 |
+| メンバー | tanaka@narimasu-log.co.jp | pass123 |
+| メンバー | suzuki@narimasu-log.co.jp | pass123 |
+| メンバー | sato@narimasu-log.co.jp | pass123 |
 
 ## GitHub + Vercel へのデプロイ手順
 
